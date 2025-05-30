@@ -1,4 +1,4 @@
-package Aula09;
+package Aula09Decorator;
 
 class PizzaDecorator implements Pizza {
     protected Pizza pizza;

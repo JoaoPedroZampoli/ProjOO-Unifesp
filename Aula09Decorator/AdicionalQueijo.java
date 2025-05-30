@@ -1,4 +1,4 @@
-package Aula09;
+package Aula09Decorator;
 
 public class AdicionalQueijo extends PizzaDecorator {
     public AdicionalQueijo(Pizza pizza){

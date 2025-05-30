@@ -1,4 +1,4 @@
-package Aula10;
+package Aula10RoutePlannerPart01;
 import java.util.Random;
 
 public class EconomicRoute implements RouteStrategy {

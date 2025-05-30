@@ -1,4 +1,4 @@
-package Aula10;
+package Aula10RoutePlannerPart01;
 
 public class Route {
     private String origem;
